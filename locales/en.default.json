@@ -1,12 +1,12 @@
 {
   "general": {
     "404": {
-      "title": "404 Page Not Found",
-      "subtext_html": "The page you requested does not exist. Click <a href=\"\/collections\/all\">here<\/a> to continue shopping."
+      "title": "404 Página no encontrada",
+      "subtext_html": " La página solicitada no existe. Hacer clic <a href=\"\/collections\/all\">aquí<\/a> para seguir comprando."
     },
     "meta": {
-      "tags": "Tagged \"{{ tags }}\"",
-      "page": "Page {{ page }}"
+      "tags": " Etiquetado \"{{ tags }}\"",
+      "page": "Página {{ page }}"
     },
     "menu": {
       "open_nav": "Open navigation",
@@ -14,11 +14,11 @@
       "nav_label": "Navigation"
     },
     "breadcrumbs": {
-      "home": "Home",
-      "back_home": "Back to the frontpage"
+      "home": "Inicio",
+      "back_home": " Volver al inicio"
     },
     "forms": {
-      "post_error": "Sorry, looks like something went wrong. Please correct the following and submit again:"
+      "post_error": " Lo siento, parece que algo salió mal. Corrija lo siguiente y vuelva a enviarlo:"
     },
     "homepage": {
       "javascript_disabled": "This store requires javascript to be enabled for some features to work correctly.",
