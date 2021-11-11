@@ -6,7 +6,7 @@
         "image--slideshow-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/proteinella_01_7fb953ae-d828-43e0-af73-4277a408dfb1.png",
+            "image": "shopify:\/\/shop_images\/proteinella_01_743735a2-638a-4ee7-819f-631614f07c38.png",
             "subheading": "",
             "title": "",
             "text": "",
@@ -55,53 +55,85 @@
         "overlay": false
       }
     },
-    "collection_featured_collection": {
-      "type": "collection--featured-collection",
-      "settings": {
-        "colors": "white",
-        "subheading": "Subheading",
-        "title": "Featured collection",
-        "collection": "",
-        "grid": 5,
-        "rows": 1,
-        "show_view_all": false
-      }
-    },
     "image_gallery": {
       "type": "image--gallery",
       "blocks": {
         "image--gallery-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/salud.png",
             "link": "shopify:\/\/collections\/all",
-            "title": "Collection title",
-            "description": "<p>Show off your best selling collections<\/p>"
-          }
-        },
-        "image--gallery-1": {
-          "type": "image",
-          "settings": {
-            "link": "shopify:\/\/collections\/all",
-            "title": "Collection title",
-            "description": "<p>Show off your best selling collections<\/p>"
+            "title": "salud",
+            "description": "<p>Fortalece tus defensas con productos bajos en azúcar y calorías.<\/p>"
           }
         },
         "65fdad69-7973-419c-819d-5b5eaf04b248": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/estilo-de-vida.jpg",
             "link": "",
-            "title": "",
-            "description": ""
+            "title": "ESTILO DE VIDA",
+            "description": "<p>Mantén un estilo de vida saludable con productos nutritivos.<\/p>"
+          }
+        },
+        "50d42845-08a8-4588-bf61-1ff544052841": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/suplemetos.jpg",
+            "link": "",
+            "title": "SUPLEMENTOS",
+            "description": "<p>Que tu entrenamiento no se detenga por falta de energía.<\/p>"
+          }
+        },
+        "f1e31fc8-bcbd-4f66-8dc2-4f81d88b69a9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alimentos.jpg",
+            "link": "",
+            "title": "Alimentos",
+            "description": "<p>Contamos con una amplia variedad de productos para comer rico y saludable.<\/p>"
           }
         }
       },
       "block_order": [
         "image--gallery-0",
-        "image--gallery-1",
-        "65fdad69-7973-419c-819d-5b5eaf04b248"
+        "65fdad69-7973-419c-819d-5b5eaf04b248",
+        "50d42845-08a8-4588-bf61-1ff544052841",
+        "f1e31fc8-bcbd-4f66-8dc2-4f81d88b69a9"
       ],
       "settings": {
-        "colors": "light"
+        "colors": "white"
+      }
+    },
+    "product_featured_product": {
+      "type": "product--featured-product",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "featured_product": "",
+        "show_discount": "hide",
+        "show_quantity_selector": false,
+        "show_smart_checkout": true,
+        "show_product_description": true,
+        "pick_an_option": false,
+        "hide_out_of_stock": false,
+        "enable_video_loop": false,
+        "size_guide_link": "",
+        "size_guide_message": "What's my size?",
+        "size_guide_variant": ""
+      }
+    },
+    "collection_featured_collection": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "subheading": "FoodNutrition",
+        "title": "Productos destacados",
+        "collection": "",
+        "grid": 5,
+        "rows": 1,
+        "show_view_all": false
       }
     },
     "product_shop_the_look": {
@@ -172,25 +204,6 @@
         "button_label": ""
       }
     },
-    "product_featured_product": {
-      "type": "product--featured-product",
-      "settings": {
-        "colors": "white",
-        "subheading": "",
-        "title": "",
-        "featured_product": "",
-        "show_discount": "hide",
-        "show_quantity_selector": false,
-        "show_smart_checkout": true,
-        "show_product_description": true,
-        "pick_an_option": false,
-        "hide_out_of_stock": false,
-        "enable_video_loop": false,
-        "size_guide_link": "",
-        "size_guide_message": "What's my size?",
-        "size_guide_variant": ""
-      }
-    },
     "blog_blog_posts": {
       "type": "blog--blog-posts",
       "settings": {
@@ -207,11 +220,11 @@
   },
   "order": [
     "image_slideshow",
-    "collection_featured_collection",
     "image_gallery",
+    "product_featured_product",
+    "collection_featured_collection",
     "product_shop_the_look",
     "image_image_with_text_block",
-    "product_featured_product",
     "blog_blog_posts"
   ]
 }
