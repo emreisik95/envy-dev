@@ -1,0 +1,51 @@
+{
+  "wrapper": "div.collection-main--wrapper",
+  "sections": {
+    "collection_header": {
+      "type": "template--collection-header",
+      "blocks": {
+        "collection-title": {
+          "type": "collection-title",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "collection-title"
+      ],
+      "settings": {
+      }
+    },
+    "collection_filtering": {
+      "type": "template--collection-filter-sort",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "template--collection",
+      "blocks": {
+        "grid-card-title": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "grid-card-price": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "grid-card-title",
+        "grid-card-price"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "collection_header",
+    "collection_filtering",
+    "main"
+  ]
+}

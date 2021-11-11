@@ -1,0 +1,24 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--article",
+      "blocks": {
+        "social-sharing": {
+          "type": "social-sharing",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "social-sharing"
+      ],
+      "settings": {
+        "show_author_name": false,
+        "show_dates": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

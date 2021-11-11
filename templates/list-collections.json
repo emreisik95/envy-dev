@@ -1,0 +1,34 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--collections-list",
+      "blocks": {
+        "grid-card-title": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "grid-card-price": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        },
+        "grid-card-swatches": {
+          "type": "grid-card-swatches",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "grid-card-title",
+        "grid-card-price",
+        "grid-card-swatches"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "sections": {
+    "image_slideshow": {
+      "type": "image--slideshow",
+      "blocks": {
+        "image--slideshow-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/proteinella_01_7fb953ae-d828-43e0-af73-4277a408dfb1.png",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "link": "shopify:\/\/collections\/all",
+            "caption-background": "#fffafa",
+            "caption-text": "#ffffff",
+            "button-text": "#ffffff",
+            "button-background": "#000000",
+            "horizontal-alignment": "right",
+            "vertical-alignment": "middle"
+          }
+        },
+        "image--slideshow-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maika_02_63c033f5-628e-454d-ba55-f9add5aa77a6.png",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_text": "",
+            "link": "shopify:\/\/collections\/all",
+            "caption-background": "#656565",
+            "caption-text": "#ffffff",
+            "button-text": "#656565",
+            "button-background": "#ffffff",
+            "horizontal-alignment": "left",
+            "vertical-alignment": "bottom"
+          }
+        }
+      },
+      "block_order": [
+        "image--slideshow-0",
+        "image--slideshow-1"
+      ],
+      "settings": {
+        "slider-animation": "fade",
+        "slider-width": "full-width",
+        "show-slide-full-screen": true,
+        "slider-slide-time": 8,
+        "caption-heading-size": 50,
+        "show-slide-dots": true,
+        "show-slide-arrows": false,
+        "show-slide-controls": true,
+        "slider-navigation--color": "#ffffff",
+        "overlay": false
+      }
+    },
+    "collection_featured_collection": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Featured collection",
+        "collection": "",
+        "grid": 5,
+        "rows": 1,
+        "show_view_all": false
+      }
+    },
+    "image_gallery": {
+      "type": "image--gallery",
+      "blocks": {
+        "image--gallery-0": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Collection title",
+            "description": "<p>Show off your best selling collections<\/p>"
+          }
+        },
+        "image--gallery-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Collection title",
+            "description": "<p>Show off your best selling collections<\/p>"
+          }
+        },
+        "65fdad69-7973-419c-819d-5b5eaf04b248": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "image--gallery-0",
+        "image--gallery-1",
+        "65fdad69-7973-419c-819d-5b5eaf04b248"
+      ],
+      "settings": {
+        "colors": "light"
+      }
+    },
+    "product_shop_the_look": {
+      "type": "product--shop-the-look",
+      "blocks": {
+        "product--shop-the-look-0": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 42,
+            "left": 72
+          }
+        },
+        "product--shop-the-look-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 71,
+            "left": 76
+          }
+        },
+        "product--shop-the-look-2": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 78,
+            "left": 8
+          }
+        },
+        "product--shop-the-look-3": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "top": 36,
+            "left": 12
+          }
+        }
+      },
+      "block_order": [
+        "product--shop-the-look-0",
+        "product--shop-the-look-1",
+        "product--shop-the-look-2",
+        "product--shop-the-look-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "Shop the look",
+        "image__position": "image--left",
+        "hotspot__color": "#ffffff",
+        "stl__heading": "",
+        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "description__position": "below-image",
+        "link": "",
+        "button__text": ""
+      }
+    },
+    "image_image_with_text_block": {
+      "type": "image--image-with-text-block",
+      "settings": {
+        "text-color": "#565050",
+        "background-color": "#f3f3f3",
+        "horizontal-alignment": "center",
+        "subheading": "",
+        "title": "Share your story",
+        "text": "Here's your chance to make a great first impression",
+        "button_link": "",
+        "button_label": ""
+      }
+    },
+    "product_featured_product": {
+      "type": "product--featured-product",
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "",
+        "featured_product": "",
+        "show_discount": "hide",
+        "show_quantity_selector": false,
+        "show_smart_checkout": true,
+        "show_product_description": true,
+        "pick_an_option": false,
+        "hide_out_of_stock": false,
+        "enable_video_loop": false,
+        "size_guide_link": "",
+        "size_guide_message": "What's my size?",
+        "size_guide_variant": ""
+      }
+    },
+    "blog_blog_posts": {
+      "type": "blog--blog-posts",
+      "settings": {
+        "colors": "white",
+        "subheading": "Subheading",
+        "title": "From the blog",
+        "post_limit": 2,
+        "show_author_name": false,
+        "show_dates": false,
+        "show_blog_images": true,
+        "imageSize": "square"
+      }
+    }
+  },
+  "order": [
+    "image_slideshow",
+    "collection_featured_collection",
+    "image_gallery",
+    "product_shop_the_look",
+    "image_image_with_text_block",
+    "product_featured_product",
+    "blog_blog_posts"
+  ]
+}
