@@ -206,10 +206,22 @@
     },
     "blog_blog_posts": {
       "type": "blog--blog-posts",
+      "blocks": {
+        "93b24267-16e8-458a-af08-db781cc5bc52": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "show_view_all": false
+          }
+        }
+      },
+      "block_order": [
+        "93b24267-16e8-458a-af08-db781cc5bc52"
+      ],
       "settings": {
         "colors": "white",
-        "subheading": "Subheading",
-        "title": "From the blog",
+        "subheading": "Food Nutrition",
+        "title": "BLOG, TIPS, RECETAS",
         "post_limit": 2,
         "show_author_name": false,
         "show_dates": false,

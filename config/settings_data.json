@@ -111,7 +111,7 @@
         ],
         "settings": {
           "show_methods_of_payment": true,
-          "alignment": "center",
+          "alignment": "left",
           "show_locale_selector": false,
           "show_currency_selector": false
         }
