@@ -216,6 +216,115 @@
         "show_blog_images": true,
         "imageSize": "square"
       }
+    },
+    "163668212270a7c851": {
+      "type": "image--logo-list",
+      "blocks": {
+        "163668212270a7c851-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lgo-acai.png",
+            "link": ""
+          }
+        },
+        "163668212270a7c851-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-granolin_922cd46e-377f-49eb-b57c-2f475ee7b47b.png",
+            "link": ""
+          }
+        },
+        "163668212270a7c851-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/the_humble_co._logo.png",
+            "link": ""
+          }
+        },
+        "163668212270a7c851-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Imagen-8.png",
+            "link": ""
+          }
+        },
+        "66c1380f-f5b0-464d-b3de-93b83d8ad804": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thaicoco_logo.png",
+            "link": ""
+          }
+        },
+        "581663ba-34ce-4767-8b7a-c6046c459b54": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo.png",
+            "link": ""
+          }
+        },
+        "ee288b9c-f70b-4ce8-83c9-0efca37b53d4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Captura_de_Pantalla_2021-11-11_a_la_s_23.03.40.png",
+            "link": ""
+          }
+        },
+        "54f3e2f5-4de6-494e-adab-233475bb6ec0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Captura_de_Pantalla_2021-11-11_a_la_s_23.07.01.png",
+            "link": ""
+          }
+        },
+        "b1df2d6c-5245-47ae-98fc-ebc1bfc9802e": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ambrosia.png",
+            "link": ""
+          }
+        },
+        "37d1dc64-f05f-4d49-9f63-bc17249535c0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-el-dorado.jpg",
+            "link": ""
+          }
+        },
+        "d629e41b-58eb-4d58-bf1f-6d0a5ea2679a": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Captura_de_Pantalla_2021-11-11_a_la_s_23.09.09.png",
+            "link": ""
+          }
+        },
+        "5a5bd12c-a757-421a-a21e-0e0372957062": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LOGO-VITALIZA.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163668212270a7c851-0",
+        "163668212270a7c851-1",
+        "163668212270a7c851-2",
+        "163668212270a7c851-3",
+        "66c1380f-f5b0-464d-b3de-93b83d8ad804",
+        "581663ba-34ce-4767-8b7a-c6046c459b54",
+        "ee288b9c-f70b-4ce8-83c9-0efca37b53d4",
+        "54f3e2f5-4de6-494e-adab-233475bb6ec0",
+        "b1df2d6c-5245-47ae-98fc-ebc1bfc9802e",
+        "37d1dc64-f05f-4d49-9f63-bc17249535c0",
+        "d629e41b-58eb-4d58-bf1f-6d0a5ea2679a",
+        "5a5bd12c-a757-421a-a21e-0e0372957062"
+      ],
+      "settings": {
+        "colors": "white",
+        "width": 150,
+        "subheading": "Food Nutrition",
+        "title": "Nuestras Marcas"
+      }
     }
   },
   "order": [
@@ -225,6 +334,7 @@
     "collection_featured_collection",
     "product_shop_the_look",
     "image_image_with_text_block",
-    "blog_blog_posts"
+    "blog_blog_posts",
+    "163668212270a7c851"
   ]
 }
