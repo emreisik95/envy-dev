@@ -1,42 +1,43 @@
 {
   "current": {
-    "font-color": "#363636",
-    "link-color": "#363636",
-    "active-link-color": "#363636",
+    "font-color": "#656565",
+    "link-color": "#656565",
+    "active-link-color": "#e3e3e3",
     "bg_color": "#ffffff",
     "header-background-color": "#ffffff",
-    "header-text-color": "#363636",
+    "header-text-color": "#656565",
     "header-overlay-text-color": "#ffffff",
     "sticky-header-background-color": "#ffffff",
-    "sticky-header-text-color": "#363636",
-    "sidebar-navigation--background-color": "#F3F3F3",
-    "sidebar-navigation--text-color": "#363636",
-    "footer-background-color": "#F3F3F3",
-    "footer-text-color": "#363636",
-    "add-to-cart-background-color": "#363636",
-    "add-to-cart-background-hover-color": "#8A8989",
+    "sticky-header-text-color": "#656565",
+    "sidebar-navigation--background-color": "#656565",
+    "sidebar-navigation--text-color": "#ffffff",
+    "footer-background-color": "#656565",
+    "footer-text-color": "#ffffff",
+    "add-to-cart-background-color": "#656565",
+    "add-to-cart-background-hover-color": "#797979",
     "add-to-cart-text-color": "#ffffff",
-    "pop-up-background-color": "#ffffff",
-    "pop-up-text-color": "#363636",
-    "colorSchemeLightBackground": "#F3F3F3",
-    "colorSchemeLightText": "#363636",
+    "pop-up-background-color": "#656565",
+    "pop-up-text-color": "#ffffff",
+    "colorSchemeLightBackground": "#f3f3f3",
+    "colorSchemeLightText": "#656565",
     "colorSchemeFeatureBackground": "#757575",
-    "colorSchemeFeatureText": "#FFFFFF",
-    "colorSchemeDarkBackground": "#363636",
-    "colorSchemeDarkText": "#F3F3F3",
+    "colorSchemeFeatureText": "#ffffff",
+    "colorSchemeDarkBackground": "#333333",
+    "colorSchemeDarkText": "#f3f3f3",
     "color_image_overlay_text": "#ffffff",
-    "color_image_overlay": "#363636",
-    "image_overlay_opacity": 15,
-    "sale-label-color": "#363636",
-    "sale-label-text-color": "#FFFFFF",
-    "sold-out-badge-color": "#363636",
+    "color_image_overlay": "#333333",
+    "image_overlay_opacity": 50,
+    "sale-label-color": "#e3e3e3",
+    "sale-label-text-color": "#333333",
+    "sold-out-badge-color": "#656565",
     "sold-out-badge-text-color": "#ffffff",
-    "type_header_font": "gill_sans_nova_n4",
+    "type_header_font": "twentieth_century_n7",
     "heading-case": "uppercase",
-    "heading--base-size": "large",
-    "subheading--font": "gill_sans_nova_n4",
-    "type_base_font": "neuzeit_office_n4",
-    "typography-body-font-size": 15,
+    "heading--base-size": "small",
+    "subheading--font": "itc_johnston_n5",
+    "subheading--case": "uppercase",
+    "type_base_font": "twentieth_century_n4",
+    "typography-body-font-size": 16,
     "navigation--font": "subheading",
     "navigation--capitalize": true,
     "buttons--font": "subheading",
@@ -44,15 +45,18 @@
     "enable_store_pickup": false,
     "show_swatches": true,
     "hover-effect": "second-image",
+    "sm_facebook_link": "https:\/\/www.facebook.com\/FoodNutritionChile\/",
+    "sm_instagram_link": "https:\/\/www.instagram.com\/foodnutritionchile\/",
     "verification-popup--background-color": "#333333",
     "popup--enable": false,
     "popup--show-social-icons": false,
+    "predictive_search_show_price": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
           "enable": true,
-          "message_text": "LUN a VIER de 9:00 a 18:00",
+          "message_text": "LUNES a VIERNES de 9:00 a 18:00",
           "message_link": "",
           "notification-bar--background-color": "#000000",
           "notification-bar--text-color": "#ffffff",
@@ -61,12 +65,55 @@
       },
       "header": {
         "type": "header",
+        "blocks": {
+          "a787849d-f936-4d88-94c4-88e838518cc9": {
+            "type": "content",
+            "settings": {
+              "mega-menu": "",
+              "mega_image_header_1": "",
+              "mega_image_subheader_1": "",
+              "mega_image_link_1": "",
+              "mega_image_header_2": "",
+              "mega_image_subheader_2": "",
+              "mega_image_link_2": ""
+            }
+          },
+          "d31badbe-6acc-4522-906c-dabbe04abbe3": {
+            "type": "content",
+            "settings": {
+              "mega-menu": "Productos",
+              "mega_image_header_1": "",
+              "mega_image_subheader_1": "",
+              "mega_image_link_1": "",
+              "mega_image_header_2": "",
+              "mega_image_subheader_2": "",
+              "mega_image_link_2": ""
+            }
+          },
+          "7e15385c-1379-4ea4-89bd-77353617b470": {
+            "type": "content",
+            "settings": {
+              "mega-menu": "",
+              "mega_image_header_1": "",
+              "mega_image_subheader_1": "",
+              "mega_image_link_1": "",
+              "mega_image_header_2": "",
+              "mega_image_subheader_2": "",
+              "mega_image_link_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "a787849d-f936-4d88-94c4-88e838518cc9",
+          "d31badbe-6acc-4522-906c-dabbe04abbe3",
+          "7e15385c-1379-4ea4-89bd-77353617b470"
+        ],
         "settings": {
           "sticky_header": true,
           "overlay_header": true,
           "logo": "shopify:\/\/shop_images\/Logotipo_Food_Nutrition_v2-02.png",
           "logo_max_width": 160,
-          "logo-placement": "below-header",
+          "logo-placement": "within-header",
           "sticky_header_logo": true,
           "search-enable": true,
           "label-enable": false,
@@ -85,8 +132,8 @@
           "footer-0": {
             "type": "text",
             "settings": {
-              "title": "Contact us",
-              "richtext": "<p>Share store details, promotions, or brand content with your customers.<\/p>"
+              "title": "Food Nutrition",
+              "richtext": "<p>Santa Elena de Huechuraba 1873c<br\/>hola@foodnutrition.cl<br\/>Horario: LUN a VIER de 9:00 a 18:00<\/p>"
             }
           },
           "footer-1": {
@@ -96,18 +143,17 @@
               "footer_linklist": "main-menu"
             }
           },
-          "footer-2": {
-            "type": "newsletter",
+          "52f9e05e-1928-48a5-b351-80452332402f": {
+            "type": "social",
             "settings": {
-              "menu_title": "Join our Mailing List",
-              "footer_newsletter_description": ""
+              "menu_title": "Redes Sociales"
             }
           }
         },
         "block_order": [
           "footer-0",
           "footer-1",
-          "footer-2"
+          "52f9e05e-1928-48a5-b351-80452332402f"
         ],
         "settings": {
           "show_methods_of_payment": true,

@@ -21,10 +21,10 @@
       "post_error": " Lo siento, parece que algo salió mal. Corrija lo siguiente y vuelva a enviarlo:"
     },
     "homepage": {
-      "javascript_disabled": "This store requires javascript to be enabled for some features to work correctly.",
-      "featured_products": "Featured Products",
-      "no_products_html": "You have no products in your Frontpage collection. This placeholder will appear until you <a href=\"\/admin\/collections?tutorial=Frontpage\">add a product to this collection<\/a>.",
-      "no_collections_html": "You don't have any collections to show here. <a href=\"\/admin\/custom_collections\">Add some collections<\/a> to go along with the default Frontpage."
+      "javascript_disabled": " Esta tienda requiere que javascript esté habilitado para que algunas funciones funcionen correctamente.",
+      "featured_products": "Productos Destacados",
+      "no_products_html": " No tienes productos en tu colección de Frontpage. Este marcador de posición aparecerá hasta que<a href=\"\/admin\/collections?tutorial=Frontpage\"> añadir un producto a esta colección<\/a>.",
+      "no_collections_html": "No tienes ninguna colección para mostrar aquí. <a href=\"\/admin\/custom_collections\">Agrega algunas colecciones<\/a> para ir junto con la página principal predeterminada."
     },
     "slider": {
       "next": "Next",

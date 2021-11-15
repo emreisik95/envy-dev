@@ -5,3 +5,12 @@ Please add any custom CSS code in here, it will be easier to transfer if updatin
 We highly recommend labelling changes, or App installs, so these can also be updated or removed as needed.
 
 */
+
+
+footer {
+    background: black !important;
+}
+
+.btn.secondary-button{
+  border-color:#ffc107 !important;
+}

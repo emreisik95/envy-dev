@@ -111,16 +111,16 @@
         "colors": "white",
         "subheading": "",
         "title": "",
-        "featured_product": "",
+        "featured_product": "eco-coconut-water-healthy-co-1-lt",
         "show_discount": "hide",
-        "show_quantity_selector": false,
+        "show_quantity_selector": true,
         "show_smart_checkout": true,
         "show_product_description": true,
         "pick_an_option": false,
         "hide_out_of_stock": false,
         "enable_video_loop": false,
         "size_guide_link": "",
-        "size_guide_message": "What's my size?",
+        "size_guide_message": "",
         "size_guide_variant": ""
       }
     },
@@ -128,11 +128,11 @@
       "type": "collection--featured-collection",
       "settings": {
         "colors": "white",
-        "subheading": "FoodNutrition",
-        "title": "Productos destacados",
-        "collection": "",
-        "grid": 5,
-        "rows": 1,
+        "subheading": "Food Nutrition",
+        "title": "Ofertas Especiales",
+        "collection": "categorias-alimentos",
+        "grid": 4,
+        "rows": 3,
         "show_view_all": false
       }
     },
@@ -142,7 +142,7 @@
         "product--shop-the-look-0": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "chocolate-sin-azucar-healthy-co-milk-100g",
             "top": 42,
             "left": 72
           }
@@ -150,7 +150,7 @@
         "product--shop-the-look-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "pack-protein-pancake-mantequilla-de-mani-crunchy",
             "top": 71,
             "left": 76
           }
@@ -158,7 +158,7 @@
         "product--shop-the-look-2": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "eco-coconut-water-healthy-co-1-lt",
             "top": 78,
             "left": 8
           }
@@ -166,7 +166,7 @@
         "product--shop-the-look-3": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "afternoon-snack-pack-healthy-co",
             "top": 36,
             "left": 12
           }
@@ -180,12 +180,12 @@
       ],
       "settings": {
         "colors": "white",
-        "subheading": "Subheading",
-        "title": "Shop the look",
+        "subheading": "Food nutrition",
+        "title": "especial healtyco",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
         "stl__heading": "",
-        "stl__description": "<p>Add in a description of your shop the look section to encourage your customers to purchase.<\/p>",
+        "stl__description": "",
         "description__position": "below-image",
         "link": "",
         "button__text": ""
