@@ -126,6 +126,22 @@
     },
     "collection_featured_collection": {
       "type": "collection--featured-collection",
+      "blocks": {
+        "ac9dac06-151a-4ac8-809e-44368ad8a282": {
+          "type": "grid-card-title",
+          "settings": {
+          }
+        },
+        "0e9e0bb6-275c-48fd-88bb-8d4e155992f2": {
+          "type": "grid-card-price",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "ac9dac06-151a-4ac8-809e-44368ad8a282",
+        "0e9e0bb6-275c-48fd-88bb-8d4e155992f2"
+      ],
       "settings": {
         "colors": "white",
         "subheading": "Food Nutrition",
@@ -182,26 +198,14 @@
         "colors": "white",
         "subheading": "Food nutrition",
         "title": "especial healtyco",
+        "image": "shopify:\/\/shop_images\/healtyco-promo.jpg",
         "image__position": "image--left",
         "hotspot__color": "#ffffff",
-        "stl__heading": "",
-        "stl__description": "",
+        "stl__heading": "Sin aceite de palma",
+        "stl__description": "<p>Creemos que un estilo de vida más saludable y un planeta más saludable van de la mano. <\/p>",
         "description__position": "below-image",
         "link": "",
         "button__text": ""
-      }
-    },
-    "image_image_with_text_block": {
-      "type": "image--image-with-text-block",
-      "settings": {
-        "text-color": "#565050",
-        "background-color": "#f3f3f3",
-        "horizontal-alignment": "center",
-        "subheading": "",
-        "title": "Share your story",
-        "text": "Here's your chance to make a great first impression",
-        "button_link": "",
-        "button_label": ""
       }
     },
     "blog_blog_posts": {
@@ -337,6 +341,48 @@
         "subheading": "Food Nutrition",
         "title": "Nuestras Marcas"
       }
+    },
+    "1637087949ed6b507d": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "163708794948204ae1-0": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "heading": "Envio a todo Chile",
+            "subheading": "Recibe nuestros maravillosos productos en la puerta de tu casa.",
+            "link": ""
+          }
+        },
+        "163708794948204ae1-1": {
+          "type": "text",
+          "settings": {
+            "icon": "heart",
+            "heading": "Amamos la vida saludable",
+            "subheading": "Come rico y saludable con productos bajos en azúcar y calorías.",
+            "link": ""
+          }
+        },
+        "163708794948204ae1-2": {
+          "type": "text",
+          "settings": {
+            "icon": "message-circle",
+            "heading": "¿Hablemos?",
+            "subheading": "Si aún no conoces o tienes dudas sobre nuestros productos.",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163708794948204ae1-0",
+        "163708794948204ae1-1",
+        "163708794948204ae1-2"
+      ],
+      "settings": {
+        "colors": "light",
+        "alignment": "center",
+        "icon-size": "text-adverts__icon-size--medium"
+      }
     }
   },
   "order": [
@@ -345,8 +391,8 @@
     "product_featured_product",
     "collection_featured_collection",
     "product_shop_the_look",
-    "image_image_with_text_block",
     "blog_blog_posts",
-    "163668212270a7c851"
+    "163668212270a7c851",
+    "1637087949ed6b507d"
   ]
 }

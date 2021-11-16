@@ -12,5 +12,9 @@ footer {
 }
 
 .btn.secondary-button{
-  border-color:#ffc107 !important;
+  border-color:#e3b631 !important;
+}
+
+.title-bar {
+    padding: 50px 0px;
 }
