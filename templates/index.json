@@ -208,6 +208,53 @@
         "button__text": ""
       }
     },
+    "16370931450b94441a": {
+      "type": "text--testimonials",
+      "blocks": {
+        "1637093145960f5343-0": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "\"Show off incredible feedback from your customers\"",
+            "author": "John Doe",
+            "link": ""
+          }
+        },
+        "1637093145960f5343-1": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "\"Show off incredible feedback from your customers\"",
+            "author": "John Doe",
+            "link": ""
+          }
+        },
+        "1637093145960f5343-2": {
+          "type": "textarea",
+          "settings": {
+            "stars": "0",
+            "testimonial": "\"Show off incredible feedback from your customers\"",
+            "author": "John Doe",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1637093145960f5343-0",
+        "1637093145960f5343-1",
+        "1637093145960f5343-2"
+      ],
+      "settings": {
+        "colors": "white",
+        "subheading": "",
+        "title": "Testimonials",
+        "slider-animation": "fade",
+        "slider-slide-time": 4,
+        "show-slide-dots": true,
+        "show-slide-arrows": false,
+        "show-slide-controls": true
+      }
+    },
     "blog_blog_posts": {
       "type": "blog--blog-posts",
       "blocks": {
@@ -391,6 +438,7 @@
     "product_featured_product",
     "collection_featured_collection",
     "product_shop_the_look",
+    "16370931450b94441a",
     "blog_blog_posts",
     "163668212270a7c851",
     "1637087949ed6b507d"
