@@ -1,11 +1,11 @@
 {
   "current": {
     "font-color": "#656565",
-    "link-color": "#000000",
+    "link-color": "#656565",
     "active-link-color": "#e3e3e3",
     "bg_color": "#ffffff",
     "header-background-color": "#ffffff",
-    "header-text-color": "#000000",
+    "header-text-color": "#656565",
     "header-overlay-text-color": "#ffffff",
     "sticky-header-background-color": "#ffffff",
     "sticky-header-text-color": "#656565",
@@ -13,10 +13,10 @@
     "sidebar-navigation--text-color": "#ffffff",
     "footer-background-color": "#656565",
     "footer-text-color": "#ffffff",
-    "add-to-cart-background-color": "#000000",
+    "add-to-cart-background-color": "#656565",
     "add-to-cart-background-hover-color": "#797979",
-    "add-to-cart-text-color": "#fdcd06",
-    "pop-up-background-color": "#000000",
+    "add-to-cart-text-color": "#ffffff",
+    "pop-up-background-color": "#656565",
     "pop-up-text-color": "#ffffff",
     "colorSchemeLightBackground": "#f3f3f3",
     "colorSchemeLightText": "#656565",
@@ -29,8 +29,8 @@
     "image_overlay_opacity": 50,
     "sale-label-color": "#e3e3e3",
     "sale-label-text-color": "#333333",
-    "sold-out-badge-color": "#e3e3e3",
-    "sold-out-badge-text-color": "#656565",
+    "sold-out-badge-color": "#656565",
+    "sold-out-badge-text-color": "#ffffff",
     "sold_out_badge": true,
     "type_header_font": "twentieth_century_n7",
     "heading-case": "uppercase",
@@ -112,7 +112,6 @@
         "settings": {
           "sticky_header": true,
           "overlay_header": true,
-          "logo": "shopify:\/\/shop_images\/Logotipo_Food_Nutrition_v2-02.png",
           "logo_max_width": 160,
           "logo-placement": "within-header",
           "sticky_header_logo": true,
@@ -153,7 +152,6 @@
           "1a7e9e96-c15c-478e-913b-40f161cb4493": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/pagos-foodnutrition.png",
               "image_max_width": 70,
               "link": "",
               "title": ""
